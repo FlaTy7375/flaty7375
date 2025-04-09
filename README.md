@@ -47,7 +47,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaty7375&hide_progress=false" alt="Top Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flaty7375&theme=tokyonight" alt="stats">
 </div>
 
 ---
