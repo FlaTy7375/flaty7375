@@ -1,5 +1,5 @@
 <div align="center">
-<img width="700" src="https://sun9-19.userapi.com/impg/c2SOnskRnHPeEBlOOvuEyb_cEeWb5I7F6sz8hw/HB6_KrQZHGk.jpg?size=1000x300&quality=95&sign=77ea53c279f9de3da9541ce183cca626&type=album">
+<img width="846" src="https://sun9-19.userapi.com/impg/c2SOnskRnHPeEBlOOvuEyb_cEeWb5I7F6sz8hw/HB6_KrQZHGk.jpg?size=1000x300&quality=95&sign=77ea53c279f9de3da9541ce183cca626&type=album">
 <div>
 
 ---
@@ -24,7 +24,7 @@
 ---
 
 <div align="center">
-<img width="700" src="https://sun9-69.userapi.com/impg/RU_OO79Txs_IrgPGBPQXLfv52HdYZzq-Gm6KTA/JihZKaRp6LU.jpg?size=1000x300&quality=95&sign=573cc795e4ab781e3353d170022e80b7&type=album">
+<img width="846" src="https://sun9-69.userapi.com/impg/RU_OO79Txs_IrgPGBPQXLfv52HdYZzq-Gm6KTA/JihZKaRp6LU.jpg?size=1000x300&quality=95&sign=573cc795e4ab781e3353d170022e80b7&type=album">
 <div>
 
 ---
@@ -42,5 +42,5 @@
 ---
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/a1/54/89/a154899bb5bdafff43df448ecb837b14.gif" width="700" alt="gif">
+<img src="https://i.pinimg.com/originals/a1/54/89/a154899bb5bdafff43df448ecb837b14.gif" width="846" alt="gif">
 </div>
