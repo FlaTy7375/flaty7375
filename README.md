@@ -42,8 +42,5 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flaty7375&theme=tokyonight" alt="stats">
+<img src="https://i.pinimg.com/originals/a1/54/89/a154899bb5bdafff43df448ecb837b14.gif" width="700" alt="gif">
 </div>
-
----
-
