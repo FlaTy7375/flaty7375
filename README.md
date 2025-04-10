@@ -13,11 +13,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/a1/54/89/a154899bb5bdafff43df448ecb837b14.gif" width="700" alt="GIF">
-</div>
-
----
 
 <ul align="left">
 <li>I am a frontend developer. 🌐</li>
