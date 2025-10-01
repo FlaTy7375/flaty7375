@@ -16,7 +16,7 @@
 
 <ul align="left">
 <li>I am a frontend developer. 🌐</li>
-<li>I am 18 years old, not tired of coffee ☕️ and deadlines yet :D</li>
+<li>I am 19 years old, not tired of coffee ☕️ and deadlines yet :D</li>
 <li>A student at BSUIR University. 🎓</li>
 <li>I dream of creating an ideal UI that will conquer the world. 🌌</li>
 </ul>
