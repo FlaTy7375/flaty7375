@@ -8,7 +8,6 @@
   <a href="https://discord.gg/vvuTrM7t"><img src="https://img.shields.io/badge/Discord-7b25c4.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://t.me/flaty3"><img src="https://img.shields.io/badge/Telegram-7b25c4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://www.instagram.com/__m.aks/"><img src="https://img.shields.io/badge/Instagram-7b25c4.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://m.vk.com/flaty1"><img src="https://img.shields.io/badge/вконтакте-7b25c4.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK"></a>
 </div>
 
 ---
